@@ -1,5 +1,7 @@
 # Official Taiho Toyota Bearing Catalogue MCP Server
 
+[![smithery badge](https://smithery.ai/badge/wickramasinghemgdd/mcp-toyota-taiho-bearings)](https://smithery.ai/servers/wickramasinghemgdd/mcp-toyota-taiho-bearings)
+
 [![Protocol](https://img.shields.io/badge/MCP-1.0.0-blue)](https://modelcontextprotocol.io)
 [![Monetization](https://img.shields.io/badge/Monetization-X402--v2-gold)](https://x402.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
