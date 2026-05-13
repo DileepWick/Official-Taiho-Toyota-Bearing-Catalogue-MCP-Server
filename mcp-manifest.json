@@ -1,0 +1,44 @@
+{
+  "mcp_version": "1.0.0",
+  "server_name": "taiho-toyota-bearing-catalogue-official",
+  "display_name": "Taiho Toyota Official Catalogue",
+  "description": "Official Taiho technical data for Toyota engine bearings, sourced from the actual Taiho Catalogue.",
+  "endpoint": "https://my-mcp-server.wickramasinghemgdd.workers.dev/mcp",
+  "monetization": {
+    "type": "x402",
+    "network": "base-mainnet",
+    "recipient": "0x48fB3bF606C012127d72A5B1FaB372B3676b14EF"
+  },
+  "capabilities": {
+    "tools": [
+      {
+        "name": "search_by_engine",
+        "description": "Search bearings by Toyota engine code (Free)",
+        "pricing": "free"
+      },
+      {
+        "name": "search_by_car",
+        "description": "Search bearings by vehicle model (Paid)",
+        "pricing": "0.01 USD"
+      },
+      {
+        "name": "search_by_part_no",
+        "description": "Lookup by Taiho or OEM part number (Paid)",
+        "pricing": "0.01 USD"
+      },
+      {
+        "name": "list_engines",
+        "description": "List all available engine codes (Free)",
+        "pricing": "free"
+      }
+    ]
+  },
+  "tags": [
+    "automotive",
+    "toyota",
+    "engine-parts",
+    "manufacturing",
+    "mcp",
+    "taiho"
+  ]
+}
