@@ -1,0 +1,9 @@
+{
+  "capabilities": ["toyota-engine-specs", "taiho-part-lookup"],
+  "monetization": {
+    "protocol": "x402",
+    "price_per_call": "0.01",
+    "currency": "USDC"
+  },
+  "verified_data": true
+}
